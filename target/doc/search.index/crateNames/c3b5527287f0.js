@@ -1,1 +1,0 @@
-rd_("kmy_rust_app")
